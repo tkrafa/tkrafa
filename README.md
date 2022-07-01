@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/tkrafa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tkrafa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkrafa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
